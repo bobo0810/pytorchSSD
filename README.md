@@ -1,8 +1,10 @@
-# 注：本人新增内容在最下面
+# 注：关于本仓库，本人新增内容在最下面
 ## 该仓库为 原作者的内容，本人仅阅读并在代码中加入大量中文注释，以便理解。
 ## 最近工作：
- - 正在基于原作者代码进行重构（吐槽：大牛就是大牛，代码写的这么乱。强迫症的我必须试着重新整理一下）
- - 目前已经完成该项目的训练部分重构工作，全部完成后将给出重构代码地址。
+ - ~~正在基于原作者代码进行重构（吐槽：大牛就是大牛，代码写的这么乱。强迫症的我必须试着重新整理一下）~~
+ - ~~目前已经完成该项目的训练部分重构工作，全部完成后将给出重构代码地址~~
+ - [重构版本](https://github.com/bobo0810/AnnotatedNetworkModelGit/tree/master/SSD_pytorch)
+   强烈推荐!
 
 # SSD: Single Shot MultiBox Object Detector, in PyTorch
 A [PyTorch](http://pytorch.org/) implementation of [Single Shot MultiBox Detector](http://arxiv.org/abs/1512.02325) from the 2016 paper by Wei Liu, Dragomir Anguelov, Dumitru Erhan, Christian Szegedy, Scott Reed, Cheng-Yang, and Alexander C. Berg.  The official and original Caffe code can be found [here](https://github.com/weiliu89/caffe/tree/ssd).
