@@ -207,33 +207,33 @@ We have accumulated the following to-do list, which we hope to complete in the n
 
 - 总体结构
 
-![](http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-13/79572279.jpg)
+![](https://github.com/bobo0810/imageRepo/blob/master/img/79572279.jpg)
 
 - 详细结构
 
-![](http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-13/78236504.jpg)
+![](https://github.com/bobo0810/imageRepo/blob/master/img/78236504.jpg)
 
 - 各网络具体结构
 
 vgg基础网络
 
-![](http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-14/26832065.jpg)
+![](https://github.com/bobo0810/imageRepo/blob/master/img/26832065.jpg)
 
 extras新增层
 
-![](http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-14/45744439.jpg)
+![](https://github.com/bobo0810/imageRepo/blob/master/img/45744439.jpg)
 
 head(loc定位、conf分类)
 
-![](http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-14/90060469.jpg)
+![](https://github.com/bobo0810/imageRepo/blob/master/img/90060469.jpg)
 
 loc定位
 
-![](http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-14/73834320.jpg)
+![](https://github.com/bobo0810/imageRepo/blob/master/img/73834320.jpg)
 
 conf分类
 
-![](http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-14/18098016.jpg)
+![](https://github.com/bobo0810/imageRepo/blob/master/img/18098016.jpg)
 
 
 - 网络细节
@@ -268,7 +268,7 @@ priors：不同feature map根据公式生成的锚结果 [8732,4]
 
 这样的结果是 每个真实框对应多个预测框。
 
-![](http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-14/19492867.jpg)
+![](https://github.com/bobo0810/imageRepo/blob/master/img/19492867.jpg)
 
 Hard negative mining（硬性负开采）：
 
@@ -286,9 +286,9 @@ Hard negative mining（硬性负开采）：
 - 右侧为自己训练100000个batch结果[ssd300_VOC_100000_mAP_75.57](https://pan.baidu.com/s/1CC_QQBkiKRrkW6l6zpnFQQ)
 
 <div align="center">
-<img src="http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-8/85403151.jpg" height="300px" alt="图片说明" ><img src="http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-8/68841398.jpg" height="300px" alt="图片说明" > 
+<img src="https://github.com/bobo0810/imageRepo/blob/master/img/85403151.jpg" height="300px" alt="图片说明" ><img src="https://github.com/bobo0810/imageRepo/blob/master/img/68841398.jpg" height="300px" alt="图片说明" > 
 </div>
 
 <div align="center">
-<img src="http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-8/20044012.jpg" height="300px" alt="图片说明" ><img src="http://boboprivate.oss-cn-beijing.aliyuncs.com/18-6-14/14161052.jpg" height="300px" alt="图片说明" > 
+<img src="https://github.com/bobo0810/imageRepo/blob/master/img/20044012.jpg" height="300px" alt="图片说明" ><img src="https://github.com/bobo0810/imageRepo/blob/master/img/14161052.jpg" height="300px" alt="图片说明" > 
 </div>
